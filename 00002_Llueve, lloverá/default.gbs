@@ -1,5 +1,5 @@
 program {
-  if (estaCerrada) {
+  if (estaCerrada()) {
     AbrirCompuertas()
   }else {
     CerrarCompuertas()
