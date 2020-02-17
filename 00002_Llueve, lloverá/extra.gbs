@@ -1,5 +1,5 @@
 function estaAbierta(){
-  return (hayBolitas(Verde)
+  return (hayBolitas(Verde))
 }
 
 function estaCerrada(){
