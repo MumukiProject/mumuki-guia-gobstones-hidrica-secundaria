@@ -1,0 +1,1 @@
+Controlar el nivel de las aguas no es la única función de los diques. Algunos también sirven para generar energía hidráulica :bulb:, aprovechando la fuerza de las corrientes del agua. :park:

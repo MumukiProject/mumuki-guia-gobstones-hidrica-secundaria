@@ -1,0 +1,23 @@
+function estaAbierta(){
+  return (hayBolitas(Verde)
+}
+
+function estaCerrada(){
+  return (not estaAbierta())
+}
+
+function llueve(){
+  return (nroBolitas(Azul) == 2)
+}
+
+procedure AbrirCompuertas(){
+  Poner(Verde)
+}
+
+procedure CerrarCompuertas(){
+  Sacar(Verde)
+}
+
+procedure NoHacerNada(){
+  
+}

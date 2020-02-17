@@ -1,0 +1,7 @@
+program {
+  if (estaCerrada) {
+    AbrirCompuertas()
+  }else {
+    CerrarCompuertas()
+  }
+}
