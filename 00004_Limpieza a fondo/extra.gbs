@@ -1,0 +1,45 @@
+function estaSucio(){
+  Mover(Sur)
+  return (hayBolitas(Negro))
+}
+
+function llueve(){
+  return (nroBolitas(Azul) == 2)
+}
+
+function estaAbierta(){
+  return (hayBolitas(Verde))
+}
+
+function estaCerrada(){
+  return (not estaAbierta())
+}
+
+procedure Limpiar(){
+  IrAlBorde(Sur)
+  repeat(nroBolitas(Negro){
+    Sacar(Negro)
+  }
+}
+
+procedure NoHacerNada(){
+  
+}
+
+procedure CerrarCompuertas(){
+  Sacar(Verde)
+  Mover(Sur)
+  while(nroBolitas(Azul) != 1){
+    Sacar(Azul)
+  }
+  Mover(Norte)
+}
+
+procedure AbrirCompuertas(){
+  Poner(Verde)
+  Mover(Sur)
+  while(nroBolitas(Azul) != 3){
+    Poner(Azul)
+  }
+  Mover(Norte)
+}
