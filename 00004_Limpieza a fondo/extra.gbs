@@ -29,7 +29,7 @@ procedure NoHacerNada(){
 procedure CerrarCompuertas(){
   Sacar(Verde)
   Mover(Sur)
-  while(nroBolitas(Azul) <> 1){
+  while(nroBolitas(Azul) /= 1){
     Sacar(Azul)
   }
   Mover(Norte)
@@ -38,7 +38,7 @@ procedure CerrarCompuertas(){
 procedure AbrirCompuertas(){
   Poner(Verde)
   Mover(Sur)
-  while(nroBolitas(Azul) <> 3){
+  while(nroBolitas(Azul) /= 3){
     Poner(Azul)
   }
   Mover(Norte)
