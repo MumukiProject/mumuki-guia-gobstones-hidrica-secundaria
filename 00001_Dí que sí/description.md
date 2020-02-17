@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-hidrica/master/assets/attires/config_1581700301376.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-hidrica-secundaria/master/assets/attires/config_1581951367374.json"></gs-attire>
 
 Los diques son construcciones que suelen estar a la orilla de los ríos para controlar su nivel de agua. De esta forma se evitan las inundaciones :ocean: o se reparte el agua en momentos de sequía :desert:. ¡Veamos cómo funciona! 
 
