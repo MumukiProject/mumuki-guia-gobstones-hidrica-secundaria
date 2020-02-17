@@ -1,0 +1,1 @@
+En el mar :ocean:, en la tierra :seedling:, en el cielo :partly_sunny:, en los animales :horse:, en el cuerpo humano :woman_raising_hand::man_raising_hand:, en todos lados hay _agua_ :droplet:. Es un bien escaso que hay que cuidar porque sin ella no hay vida :pensive:. ¡Investiguemos formas para aprovechar su uso!
