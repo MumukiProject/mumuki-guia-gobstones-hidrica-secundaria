@@ -17,7 +17,7 @@ function estaCerrada(){
 
 procedure Limpiar(){
   IrAlBorde(Sur)
-  repeat(nroBolitas(Negro){
+  repeat(nroBolitas(Negro)){
     Sacar(Negro)
   }
 }
