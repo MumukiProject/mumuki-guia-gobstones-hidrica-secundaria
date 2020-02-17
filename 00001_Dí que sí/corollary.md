@@ -1,0 +1,1 @@
+¡Genial! Ya hicimos que las compuertas se abran y cierren pero… ¿cuándo deben hacerlo? :thinking:

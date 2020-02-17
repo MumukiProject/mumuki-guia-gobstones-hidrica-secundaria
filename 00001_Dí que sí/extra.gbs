@@ -1,0 +1,3 @@
+function estaCerrada(){
+  return (not(hayBolitas(Verde)))
+}
